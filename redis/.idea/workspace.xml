@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5261ac26-efb8-4e66-ab78-513875dcc078" name="Default" comment="11111">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5261ac26-efb8-4e66-ab78-513875dcc078" name="Default" comment="111111" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,8 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,6 +176,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,6 +318,7 @@
       <workItem from="1630046199085" duration="760000" />
       <workItem from="1630055916936" duration="18000" />
       <workItem from="1630056198961" duration="17000" />
+      <workItem from="1630057273494" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1630046349663</created>
@@ -342,17 +341,24 @@
       <option name="project" value="LOCAL" />
       <updated>1630056213313</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="111111">
+      <created>1630057283207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630057283207</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5426000" />
+    <option name="totallyTimeSpent" value="5438000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="248" y="12" width="1296" height="792" extended-state="0" />
+    <frame x="206" y="33" width="1296" height="792" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25605816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26009694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -396,7 +402,8 @@
     <MESSAGE value="111" />
     <MESSAGE value="1111" />
     <MESSAGE value="11111" />
-    <option name="LAST_COMMIT_MESSAGE" value="11111" />
+    <MESSAGE value="111111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111111" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
